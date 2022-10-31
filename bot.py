@@ -13,7 +13,7 @@ import os
 class NudeityDetector(commands.Bot): 
         def _init_(self, commands_prefix, **options):
             super()._init_(commands_prefix, **options)
-            self.deepai_key = "478cd374-ce66-4fcd-a1f9-b96527f62085"
+            self.deepai_key = "yourownapikey"
             self.deepai_key_url= "https://api.deepai.org/api/nsfw-detector'"
 
         async def deteksi_telanjang(self, link):
