@@ -46,7 +46,7 @@ class NudeityDetector(commands.Bot):
                     break
 
 bot = NudeityDetector(command_prefix="!")
-bot.run("OTM3NjUwMjg5Mjc4ODYxMzMy.GRQ4Xi.dw_nIk_wNN3QysYYhq5MuCNN06c-DewsCFCc20")
+bot.run("Yourownbottoken")
 
 
 
