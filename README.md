@@ -3,7 +3,7 @@
 
 ## What are Discord NSFW Detector Bot ?
 
-A discord music bot is a program that plays audio from a specific website at the user's request. Even though they all do the same primary function (play music), some bots offer more features than others.
-For example, you can find discord music bots designed for servers that want to be as automated as possible. These come equipped with several different features such as trivia, polls, moderation, and even mini-games, amongst other things.
+This bot will Detects the likelihood that an image contains nudity and should be considered NSFW. Returns a number between 0 and 1, with 1 being 100% likely to contain nudity and be NSFW and Delete it from text servers.
+
 
 API : https://deepai.org/machine-learning-model/nsfw-detector
