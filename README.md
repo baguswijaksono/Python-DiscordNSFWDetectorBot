@@ -7,4 +7,4 @@ This bot will Detects the likelihood that an image contains nudity and should be
 
 ## Application Programming Interface
 
-[NSFW Detectors](https://deepai.org/machine-learning-model/nsfw-detector)
+[Nudity Detection API](https://deepai.org/machine-learning-model/nsfw-detector)
