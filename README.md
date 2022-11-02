@@ -5,6 +5,6 @@
 
 This bot will Detects the likelihood that an image contains nudity and should be considered NSFW. Returns a number between 0 and 1, with 1 being 100% likely to contain nudity and be NSFW and Delete it from text servers.
 
-## Application Programming Interface
+## Application Programming Interface Documentation
 
 [Nudity Detection API](https://deepai.org/machine-learning-model/nsfw-detector)
